@@ -1,0 +1,501 @@
+CustomerID,Recency,Frequency,Monetary,Segment,Recommendation
+12000,86,3,556.89,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12001,42,9,4424.4,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12002,70,5,1323.07,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12003,52,6,1033.91,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12004,210,2,156.51,At Risk,Send personalized win-back offers before they churn completely.
+12005,111,1,220.62,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12006,52,1,16.77,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12007,48,5,2028.54,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12008,136,5,787.39,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12009,55,5,1435.05,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12010,255,2,56.55,At Risk,Send personalized win-back offers before they churn completely.
+12011,13,7,3424.74,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12012,24,8,2386.06,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12013,243,1,142.66,At Risk,Send personalized win-back offers before they churn completely.
+12014,105,1,32.78,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12015,281,2,65.8,At Risk,Send personalized win-back offers before they churn completely.
+12016,203,2,255.82,At Risk,Send personalized win-back offers before they churn completely.
+12017,142,6,832.78,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12018,72,4,546.23,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12019,216,1,51.489999999999995,At Risk,Send personalized win-back offers before they churn completely.
+12020,109,4,521.84,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12021,273,1,150.72,At Risk,Send personalized win-back offers before they churn completely.
+12022,164,2,126.81,At Risk,Send personalized win-back offers before they churn completely.
+12023,19,7,785.52,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12024,76,3,379.24,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12025,33,7,1951.18,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12026,66,1,104.37,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12027,96,4,367.55,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12028,64,5,746.38,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12029,190,1,43.46,At Risk,Send personalized win-back offers before they churn completely.
+12030,40,4,871.92,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12031,210,2,188.29000000000002,At Risk,Send personalized win-back offers before they churn completely.
+12032,92,1,48.0,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12033,101,7,2391.06,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12034,19,7,3096.2400000000002,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12035,44,9,2035.07,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12036,110,2,164.1,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12037,251,1,38.15,At Risk,Send personalized win-back offers before they churn completely.
+12038,130,3,512.3199999999999,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12039,116,7,1380.6100000000001,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12040,276,1,56.32,At Risk,Send personalized win-back offers before they churn completely.
+12041,100,4,700.2,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12042,199,1,19.27,At Risk,Send personalized win-back offers before they churn completely.
+12043,3,11,6062.6,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12044,109,1,223.62,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12045,102,5,582.3199999999999,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12046,45,2,118.47,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12047,58,5,1001.13,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12048,99,7,572.66,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12049,226,1,44.22,At Risk,Send personalized win-back offers before they churn completely.
+12050,220,5,2097.45,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12051,55,10,2674.31,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12052,74,5,2283.85,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12053,39,8,1805.15,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12054,124,6,1234.13,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12055,65,8,2439.87,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12056,89,1,24.06,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12057,28,2,114.38,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12058,249,1,61.379999999999995,At Risk,Send personalized win-back offers before they churn completely.
+12059,125,2,214.47,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12060,73,7,936.48,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12061,199,1,88.80000000000001,At Risk,Send personalized win-back offers before they churn completely.
+12062,37,6,1694.4299999999998,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12063,116,6,779.4,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12064,172,1,191.62,At Risk,Send personalized win-back offers before they churn completely.
+12065,127,4,605.34,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12066,170,1,191.35,At Risk,Send personalized win-back offers before they churn completely.
+12067,12,11,3255.05,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12068,255,1,99.84,At Risk,Send personalized win-back offers before they churn completely.
+12069,141,5,2690.67,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12070,12,12,3182.41,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12071,318,1,87.80000000000001,At Risk,Send personalized win-back offers before they churn completely.
+12072,141,1,151.96,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12073,128,12,2960.03,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12074,87,8,2331.11,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12075,27,6,1635.88,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12076,181,10,2582.62,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12077,70,1,54.67,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12078,152,4,308.3,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12079,139,1,15.0,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12080,78,7,1853.7,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12081,43,3,186.78,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12082,175,1,98.18,At Risk,Send personalized win-back offers before they churn completely.
+12083,190,2,91.13,At Risk,Send personalized win-back offers before they churn completely.
+12084,196,1,72.64,At Risk,Send personalized win-back offers before they churn completely.
+12085,165,1,58.44,At Risk,Send personalized win-back offers before they churn completely.
+12086,18,4,1004.76,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12087,59,3,403.92,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12088,68,11,3305.7599999999998,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12089,80,5,986.36,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12090,226,2,248.46,At Risk,Send personalized win-back offers before they churn completely.
+12091,94,11,3911.86,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12092,33,11,2852.89,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12093,103,5,915.24,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12094,184,7,2497.45,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12095,134,4,894.17,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12096,193,5,1227.94,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12097,147,5,517.04,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12098,64,2,226.42,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12099,270,1,70.56,At Risk,Send personalized win-back offers before they churn completely.
+12100,121,1,100.95,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12101,27,7,1291.07,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12102,140,1,32.269999999999996,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12103,53,4,818.73,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12104,105,7,3209.05,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12105,221,2,198.69,At Risk,Send personalized win-back offers before they churn completely.
+12106,184,6,774.25,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12107,32,9,2476.08,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12108,58,1,61.47,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12109,21,1,33.75,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12110,275,1,123.86,At Risk,Send personalized win-back offers before they churn completely.
+12111,181,2,265.27,At Risk,Send personalized win-back offers before they churn completely.
+12112,36,13,5342.33,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12113,75,11,3184.91,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12114,43,3,773.03,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12115,160,7,1374.8600000000001,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12116,61,9,1945.96,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12117,284,1,37.54,At Risk,Send personalized win-back offers before they churn completely.
+12118,17,11,3286.93,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12119,102,4,572.23,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12120,34,8,1928.43,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12121,54,4,783.16,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12122,148,2,296.89,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12123,200,1,57.06,At Risk,Send personalized win-back offers before they churn completely.
+12124,37,2,234.75,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12125,166,3,438.11,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12126,63,11,2896.68,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12127,133,4,822.17,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12128,177,1,204.01,At Risk,Send personalized win-back offers before they churn completely.
+12129,163,4,724.88,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12130,184,6,1050.65,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12131,251,1,12.629999999999999,At Risk,Send personalized win-back offers before they churn completely.
+12132,124,1,140.12,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12133,183,1,196.85,At Risk,Send personalized win-back offers before they churn completely.
+12134,48,11,5460.03,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12135,301,1,118.16,At Risk,Send personalized win-back offers before they churn completely.
+12136,126,5,620.21,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12137,40,10,2192.54,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12138,38,6,893.41,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12139,25,12,6088.9,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12140,50,12,5319.23,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12141,106,1,84.24,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12142,96,5,600.13,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12143,228,2,66.31,At Risk,Send personalized win-back offers before they churn completely.
+12144,151,1,30.73,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12145,191,2,48.22,At Risk,Send personalized win-back offers before they churn completely.
+12146,76,6,1131.6399999999999,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12147,147,3,128.72,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12148,124,1,184.0,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12149,154,1,30.78,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12150,3,10,4645.31,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12151,255,2,334.3,At Risk,Send personalized win-back offers before they churn completely.
+12152,140,1,158.53,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12153,132,4,548.02,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12154,60,9,3689.04,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12155,254,1,28.26,At Risk,Send personalized win-back offers before they churn completely.
+12156,268,3,541.78,At Risk,Send personalized win-back offers before they churn completely.
+12157,66,7,1788.9,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12158,19,1,87.44,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12159,41,9,2459.72,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12160,101,2,159.88,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12161,111,4,411.2,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12162,110,5,750.5699999999999,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12163,169,4,311.92,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12164,155,2,194.51,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12165,49,12,3388.63,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12166,125,1,125.23,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12167,71,1,110.63,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12168,110,1,56.76,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12169,121,7,2089.27,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12170,64,4,569.8199999999999,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12171,114,1,127.17999999999999,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12172,112,5,544.33,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12173,97,2,96.61,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12174,99,3,291.23,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12175,73,1,54.02,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12176,127,5,841.94,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12177,10,4,537.4,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12178,27,8,3994.33,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12179,87,2,62.01,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12180,24,2,71.11,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12181,55,2,75.13,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12182,176,5,2936.88,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12183,73,9,3159.65,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12184,250,2,217.61,At Risk,Send personalized win-back offers before they churn completely.
+12185,96,6,1037.7,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12186,12,14,3458.33,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12187,85,3,300.84,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12188,37,5,1053.7,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12189,248,1,82.13,At Risk,Send personalized win-back offers before they churn completely.
+12190,277,1,14.68,At Risk,Send personalized win-back offers before they churn completely.
+12191,75,9,2827.01,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12192,10,13,4966.46,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12193,120,4,761.95,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12194,167,1,36.61,At Risk,Send personalized win-back offers before they churn completely.
+12195,97,1,9.43,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12196,24,4,1595.67,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12197,105,6,1369.74,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12198,9,9,1782.2,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12199,59,9,2195.04,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12200,141,4,525.72,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12201,45,1,139.22,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12202,42,2,141.63,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12203,36,9,2990.52,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12204,113,6,1044.07,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12205,113,1,15.42,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12206,102,2,139.99,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12207,63,3,621.86,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12208,259,2,148.65,At Risk,Send personalized win-back offers before they churn completely.
+12209,42,2,167.54,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12210,92,4,752.16,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12211,133,5,433.95,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12212,93,5,552.21,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12213,44,2,173.79,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12214,74,6,1988.82,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12215,280,1,139.3,At Risk,Send personalized win-back offers before they churn completely.
+12216,144,1,20.560000000000002,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12217,33,10,1916.19,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12218,135,5,556.6,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12219,143,7,855.48,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12220,59,6,844.91,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12221,28,3,581.23,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12222,155,1,46.16,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12223,198,5,517.12,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12224,69,2,325.57,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12225,233,1,36.3,At Risk,Send personalized win-back offers before they churn completely.
+12226,9,8,3464.45,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12227,120,4,741.01,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12228,148,4,734.45,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12229,121,4,413.15000000000003,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12230,57,5,852.9200000000001,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12231,154,3,183.46,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12232,89,4,433.21,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12233,177,5,580.09,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12234,123,2,327.59000000000003,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12235,61,9,2956.59,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12236,152,1,123.30000000000001,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12237,55,1,131.1,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12238,55,5,683.42,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12239,189,1,122.82,At Risk,Send personalized win-back offers before they churn completely.
+12240,10,10,3929.19,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12241,13,7,3384.2,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12242,33,14,3618.9900000000002,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12243,131,7,1088.57,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12244,166,1,23.69,At Risk,Send personalized win-back offers before they churn completely.
+12245,75,6,3585.88,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12246,35,4,637.25,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12247,14,12,5287.43,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12248,16,8,3786.84,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12249,34,9,2167.28,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12250,203,2,238.73,At Risk,Send personalized win-back offers before they churn completely.
+12251,1,7,863.6800000000001,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12252,79,7,1591.29,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12253,80,1,70.27,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12254,187,2,240.08,At Risk,Send personalized win-back offers before they churn completely.
+12255,28,6,599.14,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12256,16,9,3137.0699999999997,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12257,85,4,776.78,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12258,275,2,174.61,At Risk,Send personalized win-back offers before they churn completely.
+12259,69,1,190.48,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12260,56,3,492.38,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12261,21,7,3958.15,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12262,250,1,119.68,At Risk,Send personalized win-back offers before they churn completely.
+12263,119,3,435.43,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12264,48,9,2737.52,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12265,73,8,1748.49,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12266,148,5,504.51,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12267,33,10,3442.32,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12268,102,6,804.34,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12269,84,1,78.28999999999999,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12270,45,8,2167.93,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12271,28,5,821.6,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12272,58,9,2893.54,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12273,107,3,884.03,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12274,62,4,608.53,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12275,41,4,538.95,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12276,54,5,947.24,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12277,145,2,276.4,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12278,36,7,1637.25,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12279,28,6,1882.95,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12280,290,4,1020.86,At Risk,Send personalized win-back offers before they churn completely.
+12281,35,2,152.06,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12282,78,6,731.34,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12283,217,1,42.14,At Risk,Send personalized win-back offers before they churn completely.
+12284,98,5,787.69,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12285,176,2,47.72,At Risk,Send personalized win-back offers before they churn completely.
+12286,24,7,1420.32,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12287,75,3,281.79,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12288,231,1,82.93,At Risk,Send personalized win-back offers before they churn completely.
+12289,64,4,495.59,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12290,142,2,174.62,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12291,229,2,113.94,At Risk,Send personalized win-back offers before they churn completely.
+12292,52,10,3535.12,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12293,157,7,1481.12,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12294,234,1,122.82,At Risk,Send personalized win-back offers before they churn completely.
+12295,104,3,474.84,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12296,94,9,2613.0099999999998,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12297,241,1,162.09,At Risk,Send personalized win-back offers before they churn completely.
+12298,84,5,660.0699999999999,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12299,273,1,21.1,At Risk,Send personalized win-back offers before they churn completely.
+12300,196,2,222.33,At Risk,Send personalized win-back offers before they churn completely.
+12301,54,4,540.71,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12302,113,6,792.63,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12303,159,7,1333.96,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12304,15,8,2864.99,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12305,86,10,5440.9,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12306,173,3,567.4300000000001,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12307,34,1,102.55999999999999,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12308,205,10,2861.72,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12309,54,2,112.45,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12310,94,4,280.73,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12311,31,2,141.03,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12312,75,1,32.12,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12313,28,8,3582.64,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12314,47,8,2360.16,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12315,155,6,951.99,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12316,114,5,1112.33,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12317,85,2,162.62,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12318,77,2,38.75,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12319,73,2,217.98000000000002,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12320,52,4,339.59,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12321,27,9,2626.58,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12322,121,4,496.13,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12323,209,2,200.08,At Risk,Send personalized win-back offers before they churn completely.
+12324,34,7,3369.1,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12325,32,10,2408.1,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12326,135,4,350.01,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12327,72,3,618.91,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12328,99,7,949.15,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12329,50,2,79.81,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12330,68,3,363.24,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12331,8,9,1856.48,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12332,158,2,262.45,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12333,132,2,254.26999999999998,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12334,300,2,115.35,At Risk,Send personalized win-back offers before they churn completely.
+12335,231,1,178.21,At Risk,Send personalized win-back offers before they churn completely.
+12336,32,10,2279.04,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12337,51,11,2940.08,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12338,186,4,415.46000000000004,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12339,135,2,183.07999999999998,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12340,199,3,377.62,At Risk,Send personalized win-back offers before they churn completely.
+12341,117,6,837.88,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12342,75,1,124.62,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12343,21,4,658.02,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12344,140,2,37.71,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12345,89,2,447.59,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12346,111,4,386.97,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12347,135,2,318.9,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12348,185,3,184.93,At Risk,Send personalized win-back offers before they churn completely.
+12349,123,4,644.23,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12350,132,3,460.69,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12351,49,8,1886.49,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12352,11,6,1292.22,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12353,52,1,82.34,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12354,313,1,67.7,At Risk,Send personalized win-back offers before they churn completely.
+12355,121,5,940.06,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12356,129,1,64.91999999999999,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12357,53,5,585.46,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12358,49,8,2985.04,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12359,117,1,152.11,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12360,111,4,927.23,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12361,49,6,722.32,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12362,16,5,815.51,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12363,113,7,1393.3400000000001,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12364,12,15,5305.26,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12365,142,7,962.82,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12366,16,11,4745.67,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12367,23,5,2254.33,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12368,275,2,329.57,At Risk,Send personalized win-back offers before they churn completely.
+12369,175,2,54.25,At Risk,Send personalized win-back offers before they churn completely.
+12370,240,1,91.98,At Risk,Send personalized win-back offers before they churn completely.
+12371,207,1,165.46,At Risk,Send personalized win-back offers before they churn completely.
+12372,195,2,107.72,At Risk,Send personalized win-back offers before they churn completely.
+12373,148,4,783.61,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12374,125,1,130.57,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12375,197,1,48.05,At Risk,Send personalized win-back offers before they churn completely.
+12376,64,11,3675.82,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12377,215,2,166.52,At Risk,Send personalized win-back offers before they churn completely.
+12378,74,10,3625.96,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12379,75,2,96.83,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12380,163,2,199.9,At Risk,Send personalized win-back offers before they churn completely.
+12381,98,6,579.63,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12382,39,7,1179.61,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12383,39,6,1850.26,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12384,67,7,2429.38,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12385,105,8,2132.54,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12386,361,1,35.71,At Risk,Send personalized win-back offers before they churn completely.
+12387,63,1,20.01,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12388,60,8,2326.1,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12389,33,7,2096.75,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12390,32,11,4274.09,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12391,86,3,564.13,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12392,109,6,700.3299999999999,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12393,69,10,2712.61,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12394,156,1,183.07,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12395,31,10,5247.98,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12396,49,8,1380.26,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12397,54,4,965.33,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12398,57,6,1815.61,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12399,8,10,2724.71,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12400,252,1,115.70000000000002,At Risk,Send personalized win-back offers before they churn completely.
+12401,91,9,3972.19,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12402,98,5,1040.6399999999999,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12403,176,4,961.1899999999999,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12404,219,2,190.13,At Risk,Send personalized win-back offers before they churn completely.
+12405,75,9,2681.05,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12406,87,3,339.27,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12407,147,2,110.01,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12408,41,13,4532.5599999999995,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12409,336,1,43.61,At Risk,Send personalized win-back offers before they churn completely.
+12410,120,2,123.87,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12411,15,10,4909.41,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12412,19,9,4314.25,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12413,13,3,528.71,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12414,130,3,316.63,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12415,69,6,968.38,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12416,44,2,173.95999999999998,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12417,115,1,72.38999999999999,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12418,89,3,732.78,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12419,58,8,1839.52,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12420,73,8,1586.59,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12421,25,9,2399.75,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12422,87,1,52.46,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12423,53,5,988.07,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12424,96,1,102.49000000000001,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12425,108,4,673.86,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12426,117,5,795.4,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12427,34,13,3641.74,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12428,154,5,1285.3700000000001,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12429,142,2,31.61,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12430,233,2,194.51,At Risk,Send personalized win-back offers before they churn completely.
+12431,133,5,816.17,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12432,125,5,738.75,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12433,70,1,93.54,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12434,38,1,46.22,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12435,57,7,2695.42,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12436,285,2,254.66000000000003,At Risk,Send personalized win-back offers before they churn completely.
+12437,213,5,983.76,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12438,53,8,3004.84,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12439,231,1,43.09,At Risk,Send personalized win-back offers before they churn completely.
+12440,176,1,72.74000000000001,At Risk,Send personalized win-back offers before they churn completely.
+12441,36,7,3069.25,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12442,136,4,527.91,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12443,24,7,1029.05,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12444,39,9,3168.67,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12445,27,15,6033.57,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12446,26,14,5174.89,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12447,53,11,2914.66,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12448,113,3,389.67,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12449,34,2,321.71000000000004,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12450,39,9,1690.8,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12451,143,6,923.62,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12452,64,3,343.58,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12453,55,6,3451.83,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12454,263,1,29.98,At Risk,Send personalized win-back offers before they churn completely.
+12455,17,7,1034.64,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12456,66,2,408.97,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12457,112,5,870.15,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12458,89,1,8.39,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12459,174,2,290.01,At Risk,Send personalized win-back offers before they churn completely.
+12460,31,1,149.20999999999998,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12461,33,4,1157.12,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12462,22,8,1630.57,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12463,116,5,631.14,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12464,5,11,3804.84,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12465,75,5,444.25,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12466,77,2,25.939999999999998,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12467,13,12,3629.23,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12468,176,1,38.32,At Risk,Send personalized win-back offers before they churn completely.
+12469,58,13,7065.45,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12470,51,2,362.13,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12471,29,9,4478.82,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12472,203,1,166.31,At Risk,Send personalized win-back offers before they churn completely.
+12473,21,8,2252.94,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12474,96,7,623.54,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12475,47,10,4887.86,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12476,238,1,56.64,At Risk,Send personalized win-back offers before they churn completely.
+12477,128,4,667.02,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12478,24,8,2528.66,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12479,105,4,590.73,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12480,81,4,563.43,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12481,89,3,300.87,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12482,46,4,810.2,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12483,86,4,995.86,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12484,176,5,446.14,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12485,6,6,2513.21,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12486,188,1,89.4,At Risk,Send personalized win-back offers before they churn completely.
+12487,247,1,64.37,At Risk,Send personalized win-back offers before they churn completely.
+12488,6,12,4893.89,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12489,40,4,1339.07,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12490,129,5,916.4,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12491,72,5,677.8199999999999,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12492,259,1,147.37,At Risk,Send personalized win-back offers before they churn completely.
+12493,268,2,223.11,At Risk,Send personalized win-back offers before they churn completely.
+12494,123,5,712.72,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12495,125,4,398.88,Loyal Customers,Upsell higher-value products; enroll in a loyalty program.
+12496,58,7,926.3,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12497,29,1,116.08,Potential Loyalists,Offer targeted promotions to increase purchase frequency.
+12498,76,8,2649.4,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
+12499,11,11,5566.07,Champions,Reward with early access & loyalty perks; ask for reviews/referrals.
