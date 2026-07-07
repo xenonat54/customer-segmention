@@ -23,27 +23,47 @@ dashboard.
 
 
 customer-segmentation/
+
 ├── data/
-│   ├── generate_data.py                    # synthetic retail dataset generator
-│   └── retail_transactions.csv             # transaction data (synthetic or real)
+
+│   └── retail_transactions.csv            
+
 ├── outputs/
+
 │   ├── eda_monthly_revenue.png
+
 │   ├── eda_revenue_by_country.png
+
 │   ├── eda_top_products.png
-│   ├── kmeans_k_selection.png              # elbow + silhouette score plots
+
+│   ├── kmeans_k_selection.png            
+
 │   ├── segment_counts.png
+
 │   ├── segment_revenue.png
+
 │   ├── segment_scatter.png
-│   └── customer_segments_for_powerbi.csv   # <- imported into Power BI
+
+│   └── customer_segments_for_powerbi.csv  
+
 ├── powerbi/
-│   ├── CustomerSegmentationDashboard.pbix   # the Power BI report file
+
+│   ├── CustomerSegmentationDashboard.pbix   
+
 │   └── screenshots/
+
 │       ├── dashboard_overview.png
+
 │       ├── segment_breakdown.png
+
 │       └── revenue_by_segment.png
-├── rfm_clustering.py                        # main analysis pipeline
+
+├── rfm_clustering.py                   
+
 ├── requirements.txt
+
 └── README.md
+
 ## How the Pipeline Works
 
 1. **Load & Clean** — reads the transaction CSV (auto-handles both UTF-8 and
